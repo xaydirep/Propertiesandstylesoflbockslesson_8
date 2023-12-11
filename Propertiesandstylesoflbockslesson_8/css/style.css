@@ -34,51 +34,18 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
 body{
-	line-height: 25px;
-	margin: 50px 0 0 50px;
-	color: #000;
-}
-.mw610 {
-	max-width: 610px;
-	margin: 0 0 35px 0;
 
 }
 
-.a1 {
-	display: block;
-}
-.a2 {
-
-}
-
-.a3 {
-	margin: 33px 0;
-	padding: 0 0 35px 0;
-	margin: 35px 0;
+.example-block {
+	font-size: 50px;
+	margin: 20px;
+	box-shadow: 5px 5px 10px 5px #000;
+	border-radius: 10px;
 }
 
-.line{
-	display: block;
-	margin: 0 0 35px 0;
+.example-string {
+	font-size: 50px;
 }
-.a4 {
-	display: inline-block;
-}
-.a5 {
-	display: inline-block;
-}
-
-.a6 {
-	display: inline-block;
-	padding: 0 30px;
-}
-.a7 {
-	display: inline-block;
-	margin: 0 0 0 30px;
-	padding: 0 30px 0 0;
-}
-
-.a8{
-	display: block;
-	padding: 35px 0;
+.example-image {
 }
